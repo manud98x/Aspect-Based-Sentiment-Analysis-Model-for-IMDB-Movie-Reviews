@@ -2,6 +2,8 @@
 
 This repository contains the implementation of an aspect-based sentiment analysis model using a neural network architecture. The model is designed to identify aspects within IMDB movie reviews and classify the sentiments associated with these aspects as positive, negative, or neutral. This approach is instrumental in exploring user opinions by evaluating sentiments tied to specific features or entities in the text.
 
+The series of experiments conducted in this study highlight the significant advancements in sentiment analysis achieved through the use of hybrid and aspect-based models. However, when exploring hybrid models, particularly the CNN-BiLSTM, we observed substantial improvements in both accuracy and loss metrics. The optimised hybrid models, especially for aspect extraction tasks, further enhanced performance, underscoring the importance of fine-tuning and combining different neural network architectures
+
 ## Features
 
 - **Aspect Extraction**: The model identifies and extracts different aspects from the movie reviews.
