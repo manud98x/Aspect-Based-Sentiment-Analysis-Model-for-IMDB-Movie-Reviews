@@ -1,4 +1,4 @@
-# Aspect-Based Sentiment Analysis Model for IMDB Movie Reviews
+# Aspect-Based Sentiment Analysis Model for IMDB Movie Reviews Using DNN
 
 This repository contains the implementation of an aspect-based sentiment analysis model using a neural network architecture. The model is designed to identify aspects within IMDB movie reviews and classify the sentiments associated with these aspects as positive, negative, or neutral. This approach is instrumental in exploring user opinions by evaluating sentiments tied to specific features or entities in the text.
 
